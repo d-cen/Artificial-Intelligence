@@ -1,8 +1,8 @@
 # ECE-57000
 Artificial Intelligence
 
-## homework-1
+## assignment-1
 Python, Numpy, Matplotlib, PCA
 
-## homework-2
+## assignment-2
 Scikit-learn and Pandas
