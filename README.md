@@ -14,7 +14,7 @@ Regressions and KNN
 Image Training with CNN and Transfer Learning with ResNet-18
 
 ## -5
-Density Estimation Methods
+1D Estimation on Gaussian Density, Histogram Density, and Kernel Density
 
 ## -6
 ...
