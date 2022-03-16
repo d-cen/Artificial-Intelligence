@@ -5,20 +5,20 @@ Artificial Intelligence
 Simple Sentiment Analysis
 
 ## -2
-Distributions and Singular Value Decomposition
+Distributions and Singular Vector in Sparse Matrix
 
 ## -3
-Regressions and KNN
+Linear Regression and K-Nearest-Neighbor Classifier
 
 ## -4
-Image Training with CNN and Transfer Learning with ResNet-18
+Fully Connected Layers v.s. CNN Layers, Color Image Training with CNN, and Transfer Learning with ResNet-18
 
 ## -5
-1D Estimation on Gaussian Density, Histogram Density, and Kernel Density
+1D Density Estimation and Hyperparameter Tuning with Estimators
 
 ## -6
 ...
 
 ## -7
-Ablation Study on DCGAN Model and WGAN with Weight Clipping
+Ablation Study on DCGAN Model and Wight Clipping on WGAN
 
