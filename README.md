@@ -11,7 +11,7 @@ Distributions and Singular Value Decomposition
 Regressions and KNN
 
 ## assignment-4
-...
+Image Training with CNN and Transfer Learning with ResNet-18
 
 ## assignment-5
 ...
