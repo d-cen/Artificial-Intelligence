@@ -8,7 +8,7 @@ Simple Sentiment Analysis
 Distributions and Singular Value Decomposition
 
 ## assignment-3
-Regression and KNN
+Regressions and KNN
 
 ## assignment-4
 ...
