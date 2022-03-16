@@ -20,5 +20,5 @@ Density Estimation Methods
 ...
 
 ## -7
-...
+Ablation Study on DCGAN Model and WGAN with Weight Clipping
 
