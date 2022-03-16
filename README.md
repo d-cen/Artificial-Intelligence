@@ -17,7 +17,7 @@ Fully Connected Layers v.s. CNN Layers, Color Image Training with CNN, and Trans
 1D Density Estimation and Hyperparameter Tuning with Estimators
 
 ## -6
-Denoising Autoencoder CNN and Image Generator Variational Autoencoder
+Denoising Autoencoder with CNN and Image Generator Variational Autoencoder
 
 ## -7
 Ablation Study on Deep Convolutional GAN and Weight Clipping on Wasserstein GAN
