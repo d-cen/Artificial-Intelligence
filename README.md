@@ -5,4 +5,4 @@ Artificial Intelligence
 Simple Sentiment Analysis
 
 ## assignment-2
-Scikit-learn and Pandas
+Distributions and Singular Value Decomposition
