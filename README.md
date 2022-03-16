@@ -14,7 +14,7 @@ Regressions and KNN
 Image Training with CNN and Transfer Learning with ResNet-18
 
 ## assignment-5
-...
+Density Estimation Methods
 
 ## assignment-6
 ...
