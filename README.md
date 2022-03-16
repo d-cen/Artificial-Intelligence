@@ -2,7 +2,7 @@
 Artificial Intelligence
 
 ## assignment-1
-Python, Numpy, Matplotlib, PCA
+Simple Sentiment Analysis
 
 ## assignment-2
 Scikit-learn and Pandas
