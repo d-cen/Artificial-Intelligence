@@ -1,13 +1,13 @@
 # ECE-57000
 Artificial Intelligence
 
-## 1
+## -1
 Simple Sentiment Analysis
 
-## 2
+## -2
 Distributions and Singular Value Decomposition
 
-## 3
+## -3
 Regressions and KNN
 
 ## assignment-4
