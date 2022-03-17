@@ -8,7 +8,7 @@ Simple Sentiment Analysis
 Distributions and Singular Vector in Sparse Matrix
 
 ## assignment-3
-Linear Regression and K-Nearest-Neighbor(KNN) Classifier
+Linear Regression and K-Nearest-Neighbor (KNN) Classifier
 
 ## assignment-4
 Fully Connected Layers v.s. CNN Layers, Color Image Training with CNN, and Transfer Learning with ResNet-18
