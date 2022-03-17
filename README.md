@@ -1,24 +1,24 @@
 # ECE-57000
 Artificial Intelligence
 
-## -1
+## assignment-1
 Simple Sentiment Analysis
 
-## -2
+## assignment-2
 Distributions and Singular Vector in Sparse Matrix
 
-## -3
+## assignment-3
 Linear Regression and K-Nearest-Neighbor(KNN) Classifier
 
-## -4
+## assignment-4
 Fully Connected Layers v.s. CNN Layers, Color Image Training with CNN, and Transfer Learning with ResNet-18
 
-## -5
+## assignment-5
 1D Density Estimation and Hyperparameter Tuning with Estimators
 
-## -6
+## assignment-6
 Denoising Autoencoder with CNN and Image Generator Variational Autoencoder
 
-## -7
+## assignment-7
 Ablation Study on Deep Convolutional GAN and Weight Clipping on Wasserstein GAN
 
