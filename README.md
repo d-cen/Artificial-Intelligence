@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Artificial Intelligence and Machine Learning
 ECE 57000: Artificial Intelligence
 
 ## assignment-1
